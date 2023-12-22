@@ -37,7 +37,7 @@ una vez estando ubicados en la carpeta principal ejecutamos el comando
 Para poder visualizar en consola la ejecución de las pruebas unitarias.
 
 
-##Notas generales
+## Notas generales
 1. En el problema de las estaciones del año por la fecha de creación de una orden existen un error en los resultados esperados
   En el número de orden **114-0291773-7262697** según la tabla la estación del año debería de ser **Winter** cuando lo correcto es que sea **Fall**
   En el número de orden **112-5230502-8173028** según la tabla la estación del año debería de ser **Summer* cuando lo correcto es que sea **Winter**
