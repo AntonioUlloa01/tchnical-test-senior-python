@@ -1,3 +1,8 @@
+# Refactorizacion de codigo
+
+# 1. Cambiar las validaciones las cuales nos permitan eliminar los if anidados para tener un codigo mas legible
+# 2. Retorar los mensajes de error para poder realizar la validacion de las pruebas unitarios
+
 def products_order(products):
     inventory = {
         'apple': 10,
