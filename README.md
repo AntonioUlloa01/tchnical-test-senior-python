@@ -4,6 +4,7 @@
 
 1. Clonar este repositorio:
   ```git clone https://github.com/AntonioUlloa01/tchnical-test-senior-python.git ```
+2. Al clonar el repositorio validar que se encuentra en la rama **master* ya que ahi es donde esta alojado el proyecto.
 3. Instalar python en caso de no tenerlo.
 4. Crear un venv para la administración de los paquetes
    - Abrir una terminal en la carpeta raiz del proyecto y ejecutar el siguiente comando para la creación del venv "python -m venv .venv"
