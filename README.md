@@ -2,13 +2,14 @@
 
 ## Instrucciones de instalacion
 
-1. Clonar este repositorio: 'git clone https://github.com/AntonioUlloa01/tchnical-test-senior-python.git'
-2. Instalar python en caso de no tenerlo.
-3. Crear un venv para la administracion de los paquetes
+1. Clonar este repositorio:
+  ```git clone https://github.com/AntonioUlloa01/tchnical-test-senior-python.git ```
+3. Instalar python en caso de no tenerlo.
+4. Crear un venv para la administracion de los paquetes
    - Abrir una terminal en la carpeta raiz del proyecto y ejecutar el sigueinte comando para la creacion del venv "python -m venv .venv"
    - Ejecutar el siguiente comando para inicializar el venv
      ```.venv/Scripts/activate```
-4. Instalar las dependencias del proyecto con el comando
+5. Instalar las dependencias del proyecto con el comando
      ```pip install -r requirements.txt```
 6. Declaran la variable entorno de Flask para poder ejecutarlo
    - En la terminal tenemos que movernos a la carpeta app
